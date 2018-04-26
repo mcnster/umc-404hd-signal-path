@@ -7,7 +7,7 @@ Included is the diagram **source in .dia** format.  [Dia](https://wiki.gnome.org
 
 Also there is a **rendered .pdf** file of the schematic for your viewing pleasure if you don't have access to Dia.
 
-The source and render are both placed in the **Public Domain** by me in the hopes that it will be useful to somebody.
+The source and render are both placed in the **Public Domain** by me in the hopes that it will be illuminating to somebody.
 
 If I've really gotten something **wrong** in this schematic, create an **Issue** or **Pull Request** and I'll update it.
 
