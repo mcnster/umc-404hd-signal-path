@@ -1,9 +1,7 @@
 # umc-404hd-signal-path
 ### Signal path diagram for the Behringer UMC-404HD audio interface in .dia and .pdf format.
 
----
-
-This is a **schematic** of the signal path for the behringer U-PHORIA UMC404HD Audiophile 4x4, 24-Bit/192 kHz USB Audio/MIDI Interface with MIDAS Mic Preamplifers.  A _sweet, sweet_ piece of equipment.
+This is a **conceptual schematic** of the signal path for the behringer U-PHORIA UMC404HD Audiophile 4x4, 24-Bit/192 kHz USB Audio/MIDI Interface with MIDAS Mic Preamplifers.  A _sweet, sweet_ piece of equipment.
 
 Included is the diagram **source in .dia** format.  [Dia](https://wiki.gnome.org/Apps/Dia "Dia Wiki") is a program for drawing structured diagrams (C) 1998-2009 The Free Software Foundation, part of the Gnome Project.
 
