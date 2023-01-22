@@ -18,6 +18,6 @@ I mainly added a representation of Inserts routing and distinguished XLR vs TRS 
 
 **Todo:**
 
-  State on schematic that phantom power only apply to XLR pins of the input combo receptacles.
+  State on schematic that phantom power only applies to XLR pins of the input combo receptacles.
 
   Eventually clarify analog routing for 3L/4R inputs to main out 
